@@ -54,3 +54,5 @@ dkms.conf
 .DS_Store
 src/hello
 src/test
+src/c/pset1/hello
+src/c/pset1/test
