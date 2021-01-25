@@ -47,3 +47,27 @@ Format Code
 clang hello.c -o hello -lcs50
 
 Command to run code: " clang filename.c -o filename -lcs50 "
+
+CS50 and C Data Types
+
+- Bool 
+- Char
+- Double 
+- Float
+- Int 
+- Long 
+- String
+
+
+PrintF 
+
+%c -> Prints a single character
+%f -> Print a floating point number
+%i -> Print a  Integer 
+%li -> Print a Long Integer 
+
+As a programmer, we have to be precise with c 
+
+
+Int -> Being 32 Bits
+Long -> Being 64 Bits 
