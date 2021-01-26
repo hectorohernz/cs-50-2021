@@ -71,3 +71,6 @@ As a programmer, we have to be precise with c
 
 Int -> Being 32 Bits
 Long -> Being 64 Bits 
+
+
+Code is run in the cpu.
