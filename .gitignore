@@ -66,3 +66,5 @@ src/c/lesson/test
 src/c/lesson/positive
 src/c/lesson/mario
 src/c/arrays/scores
+src/c/arrays/argv
+src/c/arrays/uppercase
