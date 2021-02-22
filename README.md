@@ -74,3 +74,26 @@ Long -> Being 64 Bits
 
 
 Code is run in the cpu.
+
+        if (firstTwoDigs == 34 || firstTwoDigs == 37)
+        {
+            typeOfCard = "AMEX\n";
+        }
+        else if (firstTwoDigs >= 50 && firstTwoDigs <= 55)
+        {
+            typeOfCard = "MASTERCARD\n";
+        }
+        else
+        {
+            long int firstDigit = firstTwoDigs / 10;
+            if (firstDigit == 4)
+            {
+                typeOfCard = "VISA\n";
+            }
+            else
+            {
+                printf("INVALID\n");
+                return 0;
+            }
+        }
+    }
